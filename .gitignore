@@ -1,3 +1,5 @@
-
 fly.toml
 quotes/.env
+*.pyc
+*.xml
+*.iml
